@@ -12,8 +12,8 @@ It is Miguel Valle from **Madrid**. I started on Ironhack 1 month ago because I 
 
 |  JavaScript  |    HTML    |    CSS   |    Extra   |
 |--------------|------------|----------|------------|
-|Node.js, React|Tags, class |Bootstrap,|Git, github,|
-|and Vanilla JS|and IDs     |Flexbox   |Linux       |
+|Node.js, React and Vanilla JS|Tags, class and IDs|Bootstrap, Flexbox|Git, github, Linux|
+
 
 ## Used technologies
 
